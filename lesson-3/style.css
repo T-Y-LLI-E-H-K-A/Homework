@@ -3,7 +3,7 @@ header {
     background: #b06a1f;
 }
 
-.header-link {
+header a {
     color: #000;
 }
 
@@ -12,7 +12,7 @@ img {
     height: 300px;
 }
 
-div {
+.quote {
     background: #dfb88cc0;
 }
 
@@ -22,6 +22,6 @@ footer {
     color: #fff;
 }
 
-.footer-link {
+footer a {
     color: #fff;
 }
