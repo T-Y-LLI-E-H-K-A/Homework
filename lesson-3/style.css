@@ -1,0 +1,27 @@
+header {
+    height: 60px;
+    background: #b06a1f;
+}
+
+.header-link {
+    color: #000;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+div {
+    background: #dfb88cc0;
+}
+
+footer {
+    background: #8340cf;
+    height: 300px;
+    color: #fff;
+}
+
+.footer-link {
+    color: #fff;
+}
